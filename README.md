@@ -1,4 +1,4 @@
-#MyInternshipProjects
+# MyInternshipProjects
 
 Week-01
 
@@ -14,7 +14,7 @@ Update Tasks :- Users can update task descriptions, due dates, or priorities.
 
 Remove Tasks :- Also users can remove unwanted or finished tasks.
 
-#How it works
+# How it works
 
 1.Adding Tasks :- The function takes input for task details like description, due date, and priority and then adds a dictionary representing the task to the tasks list.
 
@@ -28,7 +28,7 @@ Remove Tasks :- Also users can remove unwanted or finished tasks.
 
 6.Menu and User Interaction :- Menu helps the user to interact with application. And the loop continuously display the menu and takes user input.
 
-#Usage
+# Usage
 
 Usage on to-do tasks refers to the way in which tasks are used in a to-do list. This can include things like:
 
